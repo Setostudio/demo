@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // Hải: var
         // Sửa rồi nha
+
+        // dong 2 ne
     }
 
 }
